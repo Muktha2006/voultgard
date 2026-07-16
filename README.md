@@ -1,8 +1,8 @@
-# VoltGuard
+# VoultGuard
 
 ## Packet Interceptor Module
 
-This module captures and parses Modbus TCP packets for the VoltGuard project.
+This module captures and parses Modbus TCP packets for the VoultGuard project.
 
 ### Tools Used
 - Python
