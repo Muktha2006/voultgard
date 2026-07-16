@@ -1,6 +1,5 @@
 from scapy.all import sniff
 
-# Function to display packet information
 def packet_callback(packet):
     print(packet.summary())
 
